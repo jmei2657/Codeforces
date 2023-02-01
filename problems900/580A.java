@@ -1,4 +1,4 @@
-package Codeforces;
+package Codeforces.problems900;
 
 import java.util.Scanner;
 /*

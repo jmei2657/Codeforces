@@ -1,4 +1,4 @@
-package Codeforces;
+package Codeforces.problems800;
 
 import java.util.Scanner;
 // 1/24/2024
